@@ -1,0 +1,3 @@
+Jordan,Amman
+Egypt,Sharm Elsheikh
+Saudi Arabia,Jeddah
